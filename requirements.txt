@@ -2,5 +2,5 @@ chromadb==0.4.3
 openai==0.27.8
 sentence-transformers==2.2.2
 langchain
-streamlit==1.25.0
+streamlit
 
